@@ -3,7 +3,11 @@
 @import url('https://fonts.googleapis.com/css?family=Martel');
 
 body {
-  font-family: 'Martel', sans-serif;
+  font-family: 'Martel', serif;
+}
+
+p {
+  font-family: 'Martel';
 }
 
 .page-container {
